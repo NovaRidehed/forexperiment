@@ -21,7 +21,7 @@ namespace testprojekt2024
         {
             textBox1.Clear();
         }
-        //hej christoferasdf
+        //hej christoferasdffdg
         private void throwdicebutton_Click(object sender, EventArgs e)
         {
             rand.Next(1,6);
